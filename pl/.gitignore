@@ -1,17 +1,30 @@
-.metadata/
-bin/
-.settings
-*.class
+# Maven
+
+target/
+
+# IntelliJ
+
+.idea/
+
+# VS Code
+
+.vscode/
+
+# Eclipse
+
+.project
 .classpath
-.loadpath
-tmp/
-*.tmp
 .settings/
-*.swp
-*.bak
-*.jar
-local.properties
-.factorypath
-src-gen/
-*.xml
-*.zip
+
+# Logs
+
+*.log
+
+# Maven local
+
+apache-maven-*/
+
+# OS
+
+.DS_Store
+Thumbs.db
